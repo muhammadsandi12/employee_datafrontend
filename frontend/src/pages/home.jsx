@@ -1,8 +1,8 @@
-import React, {Component} from 'react'
-export default class Home extends Component{
-  render (){
-  return(
+import React, { Component } from 'react'
+export default class Home extends Component {
+  render() {
+    return (
       <div>InI Home Page</div>
-  )
-}
+    )
+  }
 }
